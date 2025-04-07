@@ -18,17 +18,17 @@ const StaffSection = () => {
                         {
                             name: "KALANA NIMSARA",
                             role: "FOUNDER",
-                            img: "./public/assets/STAFF/staff1.png",
+                            img: "./src/assets/STAFF/staff1.png",
                         },
                         {
                             name: "ISURU UDARA(BUG ISURU)",
                             role: "CO-FOUNDER",
-                            img: "./public/assets/STAFF/staff2.png",
+                            img: "./src/assets/STAFF/staff2.png",
                         },
                         {
                             name: "VIDURA VIDARSHANA",
                             role: "CO-FOUNDER",
-                            img: "./public/assets/STAFF/staff.png",
+                            img: "./src/assets/STAFF/staff3.png",
                         },
                         {
                             name: "iTz_mE_VihanGa",
@@ -38,62 +38,62 @@ const StaffSection = () => {
                         {
                             name: "GINETH FERNANDO",
                             role: "MAIN DEVELOPER",
-                            img: "./public/assets/STAFF/staff5.png",
+                            img: "./src/assets/STAFF/staff5.png",
                         },
                         {
                             name: "THISURA DILANKA",
                             role: "HEAD ADMIN",
-                            img: "./public/assets/STAFF/staff6.png",
+                            img: "./src/assets/STAFF/staff6.png",
                         },
                         {
                             name: "THEEKSHANA SARANGA",
                             role: "HEAD ADMIN",
-                            img: "./public/assets/STAFF/staff7.png",
+                            img: "./src/assets/logo.png",
                         },
                         {
                             name: "CHAMATHKA ARUNA (DOOMA)",
                             role: "HEAD ADMIN",
-                            img: "./public/assets/STAFF/staff8.png",
+                            img: "./src/assets/logo.png",
                         },
                         {
                             name: "ISARA JAYAWARDANA",
                             role: "HEAD ADMIN",
-                            img: "./public/assets/STAFF/staff9.png",
+                            img: "./src/assets/STAFF/staff9.png",
                         },
                         {
                             name: "KASUN DHANANJAYA",
                             role: "HEAD ADMIN",
-                            img: "./public/assets/STAFF/staff.png",
+                            img: "/src/assets/logo.png",
                         },
                         {
                             name: "LIL TONY",
                             role: "ANTI-CHEAT DEVELOPER",
-                            img: "./public/assets/STAFF/staff11.png",
+                            img: "./src/assets/logo.png",
                         },
                         {
                             name: "PASINDU SHEHARA",
                             role: "MUSIC DIRECTOR",
-                            img: "./public/assets/STAFF/staff.png",
+                            img: "./src/assets/STAFF/staff12.png",
                         },
                         {
                             name: "HEASAN SAMUDIKA",
                             role: "GRAPHIC DESIGNER",
-                            img: "./public/assets/STAFF/staff13.png",
+                            img: "./src/assets/STAFF/staff13.png",
                         },
                         {
                             name: "MADURINDA JAYASOORIYA",
                             role: "SENIOR ADMIN",
-                            img: "./public/assets/STAFF/staff.png",
+                            img: "./src/assets/logo.png",
                         },
                         {
                             name: "SENU",
                             role: "JUNIOR ADMIN",
-                            img: "./public/assets/STAFF/staff.png",
+                            img: "./src/assets/logo.png",
                         },
                         {
                             name: "HIRUTH SENAVIRATHNA",
                             role: "CONTEND CREATOR",
-                            img: "./public/assets/STAFF/staff16.png",
+                            img: "./src/assets/STAFF/staff16.png",
                         },
                     ].map((staff, index) => (
                         <div
